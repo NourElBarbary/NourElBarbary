@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nour Sameh El Barbary</h1>
 <h3 align="center">Proven and skilled AI student with expertise in analyzing and identifying statistical patterns through data interpretation. Strong analytical skills and a solid grasp of machine learning algorithms. Committed to continuous learning and applying innovative solutions</h3>
 
